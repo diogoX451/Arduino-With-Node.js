@@ -24,3 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diogox451&show_icons=true&locale=en" alt="diogox451" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diogox451&" alt="diogox451" /></p>
+
+<br>
+<br>
+<h2>Como funciona...</h2>
+<p> Primeiro chama todas as biblieotecas de acordo com a imagem <strong>Importante:</strong> utilizar o "Nodemon" </p>
